@@ -225,17 +225,6 @@ nav .list ul li a:hover{
     margin: auto;
     margin:50px 50px;
 }
-/* @media( max-width:1023px){
-    .about {
-        display: block;
-    }
-    .aquare{
-        padding: 20px 10px;
-    }
-    .sixuare{
-        width: 100%;
-    }
-} */
 .aquare{
     width: 50%;
     padding: 0px 10px;
